@@ -1,0 +1,1 @@
+# Ponto-Tel-API_ALPHA_VANTAGE
